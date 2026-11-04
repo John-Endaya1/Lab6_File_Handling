@@ -1,0 +1,18 @@
+CYBERSECURITY INCIDENT REPORT
+----------------------------------------
+Student: Endaya (TUPM-26-4330)
+Target Year: 2015
+Total Records in Dataset: 0
+Incidents in Target Year: 0
+
+Incident Count per Attack Type:
+
+Total Financial Loss (USD millions): 0.00
+Average Financial Loss (USD millions): 0.00
+
+Five Costliest Incidents:
+
+Output Files:
+  Filtered CSV: Endaya_TUPM-26-4330_incidents_2015.csv
+  JSON File: Endaya_TUPM-26-4330_incident_summary.json
+  Backup File: Endaya_TUPM-26-4330_incident_summary.json (VERIFIED)

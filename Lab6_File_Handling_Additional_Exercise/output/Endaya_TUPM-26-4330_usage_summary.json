@@ -1,0 +1,13 @@
+{
+    "student": "Endaya",
+    "student_id": "TUPM-26-4330",
+    "operating_system": "Android",
+    "behavior_class": 1,
+    "total_records": 0,
+    "records_matching_os": 0,
+    "records_in_target_class": 0,
+    "average_battery_drain_mAh_day": 0.0,
+    "average_data_usage_MB_day": 0.0,
+    "exported_rows": 0,
+    "count_verification": "MATCH"
+}
