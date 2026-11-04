@@ -1,0 +1,4 @@
+Student: Endaya
+Student ID: TUPM-26-4330
+Seed digit: 0
+ID sum: 18

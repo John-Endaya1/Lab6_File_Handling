@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+----------------------------------------
+Last Name: Endaya
+Student ID: TUPM-26-4330
+Seed Digit: 0
+ID Sum: 18
+Verification Value: 108
+Dataset Sample Size: 68
+Valid Records: 68
+Average Global Active Power: 4.062
+JSON File: Endaya_TUPM-26-4330_record.json
+Backup File: Endaya_TUPM-26-4330_record.csv
